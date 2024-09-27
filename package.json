@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "express": "^4.21.0"
+    "scripts": {
+  "dev": "npm run dev"
+}
   }
 }
